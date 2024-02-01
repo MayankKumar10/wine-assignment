@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <h4>Wine Assignment new change</h4>
+      <h4>Wine Assignment</h4>
       <WineStatisticsTable data={AllWineData} property="Flavanoids" />
       <WineStatisticsTable data={AllWineData} property="Gamma" />
 
