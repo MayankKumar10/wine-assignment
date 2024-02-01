@@ -6,9 +6,9 @@ This React application calculates and displays class-wise mean, median, and mode
 
 ## Screenshots
 
-![Flavanoids Statistics](screenshots/flavanoids_statistics.png)
+![Flavanoids Statistics](./public/Flavanoid_Table.png)
 
-![Gamma Statistics](screenshots/gamma_statistics.png)
+![Gamma Statistics](./public/Gamma_Table.png)
 
 ## Installation
 
