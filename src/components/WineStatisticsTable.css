@@ -1,0 +1,22 @@
+/* src/components/WineStatisticsTable.css */
+
+.wine-table-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.wine-table {
+  width: 80%;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.wine-table th, .wine-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  cursor: pointer
+}
+
+.wine-table th {
+  background-color: #f2f2f2;
+}
